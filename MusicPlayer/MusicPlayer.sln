@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EHAMusicPlayer", "EHAMusicPlayer\EHAMusicPlayer.csproj", "{8EEBBDE6-B27A-4339-AB45-727299F886DE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8EEBBDE6-B27A-4339-AB45-727299F886DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8EEBBDE6-B27A-4339-AB45-727299F886DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8EEBBDE6-B27A-4339-AB45-727299F886DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8EEBBDE6-B27A-4339-AB45-727299F886DE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9ACDA57F-E6FE-41DE-9EDF-DDE684C62756}
+	EndGlobalSection
+EndGlobal
